@@ -1,7 +1,7 @@
 # oppo
 
 > 和闪一起写的oppo官网
-> *讲解知识点如下：*
+> *讲解知识点如下：*</br>
 > 1.vue动态添加class，使用:class="{className:isBoolean}",当isBoolean为true添加上此class，为false则remove此class。</br>
 > 2.vue动态添加style，:style="{borderTop:'1px solid '+ color(color为一个变量) }"</br>
 > 3.vue父到子传递数据，使用props。props可以使用数组接受，也可以使用对象。</br>
